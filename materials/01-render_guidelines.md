@@ -1,5 +1,5 @@
 ---
-title: Course Rendering
+title: Course materials testing
 ---
 
 ::: {.callout-tip}
